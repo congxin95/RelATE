@@ -1,0 +1,4 @@
+pytorch=1.7.1
+cudatoolkit
+transformers=3.5.1
+gitpython
