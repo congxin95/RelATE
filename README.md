@@ -10,7 +10,7 @@ Overview
 
 In this work, we propose a novel task decomposition strategy, Relation-then-Entity, for FS-RTE. It first detects relations occurred in a sentence and then extracts the corresponding head/tail entities of the detected relations. To instantiate this strategy, we further propose a model, RelATE, which builds a dual-level attention to aggregate relation-relevant information to detect the relation occurrence and utilizes the annotated samples of the detected relations to extract the corresponding head/tail entities. Experimental results show that our model outperforms previous work by an absolute gain (18.98%, 28.85% in F1 in two few-shot settings).
 
-You can find the paper [here](https://arxiv.org/abs/).
+You can find the paper in `paper` directory or download it from [here](https://doi.acm.org/?doi=3477495.3531831).
 
 Requirements
 ---
